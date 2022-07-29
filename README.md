@@ -30,3 +30,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [VI-eye: semantic-based 3D point cloud registration for infrastructure-assisted autonomous driving](https://aiot.ie.cuhk.edu.hk/papers/VI_Eye.pdf) | MobiCom 2021 🎓
 - [Hermes: an efficient federated learning framework for heterogeneous mobile clients](https://sites.duke.edu/angli/files/2021/10/2021_Mobicom_Hermes_v1.pdf) | MobiCom 2021 🎓
 
+## Thesis
+
+- [Edge-side Resource Management for Data-driven Applications](https://theses.lib.polyu.edu.hk/bitstream/200/10310/1/991022347055903411.pdf) | 2019 🎓
+- [Urban computing with building data : an applied transfer learning approach](https://theses.lib.polyu.edu.hk/bitstream/200/10064/1/991022249145403411.pdf) | 2019 🎓
