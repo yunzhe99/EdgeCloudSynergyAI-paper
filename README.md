@@ -20,6 +20,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 - [Clio: Enabling automatic compilation of deep learning pipelines across iot and cloud](https://people.cs.umass.edu/~dganesan/papers/CLIO-Mobicom2020.pdf) | MobiCom 2020 🎓
 - [Flexible high-resolution object detection on edge devices with tunable latency](https://air.tsinghua.edu.cn/pdf/Flexible-High-resolution-Object-Detection-on-Edge-Devices-with-Tunable-Latency.pdf) | MobiCom 2021 🎓
 - [Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf) | MobiCom 2021 🎓
+- [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/system/files/nsdi21-guo.pdf) | NSDI 2021 🎓
+- [Auto-split: a general framework of collaborative edge-cloud AI](https://dl.acm.org/doi/pdf/10.1145/3447548.3467078?casa_token=GiQW9wpo_ioAAAAA:3mpRgZME_QuDb4guSLdwiXzKZmfkC8jBx4m09poGkhJX4DI7iVTlIsY8Tx8GzFWg12fNqermM3M) | KDD 2021 🎓
 
 
 ## Synergy for Accuracy
